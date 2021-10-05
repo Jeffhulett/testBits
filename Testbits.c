@@ -1,5 +1,6 @@
 void main(void)
 {
+    // add Git to project
     // Initialize the device
     SYSTEM_Initialize();
 
